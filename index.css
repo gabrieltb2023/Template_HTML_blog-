@@ -187,7 +187,19 @@ h3{
     cursor: pointer;
 }
 
-
+.Music1
+p {
+    background-color:#f0f0f0;
+    color:#000;
+    }
+    p.box1 {
+    width:150px;
+    margin:10px 50px;
+    padding:20px;
+    font-size:italic;
+    background-color:#cfc;
+    color:#000;
+    }
 
 
 
